@@ -1,3 +1,21 @@
+### Task Tracker
+Simple Angular application with TraversyMedia tutorial
+
+Home page info
+<p align="center">
+  <img src="readme-img/Main.png" alt="Main" />
+</p>
+
+Add task form info
+<p align="center">
+  <img src="readme-img/AddTask.png" alt="Main" />
+</p>
+
+About page info
+<p align="center">
+  <img src="readme-img/About.png" alt="Main" />
+</p>
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
